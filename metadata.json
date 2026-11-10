@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow - SaaS Inventory Management System",
+  "description": "Production multi-tenant SaaS inventory management system with real Express REST backend, multi-organization data isolation, product catalog, stock adjustments, low-stock alerts, analytics dashboard, and built-in interactive architecture & code masterclass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
